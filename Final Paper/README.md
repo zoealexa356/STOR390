@@ -1,0 +1,1 @@
+I thoroughly explained and conducted an analysis on methods and morality of a 2024 study titled 'A machine-learning prediction model to identify risk of firearm injury using electronic health records data' and explained a few modifications to increase the morality and effeciency of the study.  
